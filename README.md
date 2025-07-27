@@ -26,14 +26,16 @@ This setup enables the model to learn both short-term and long-term trends and o
 
 ---
 
-## 📈 Technical Indicators Included
+##  Technical Indicators Included
 
 To mimic real-world financial analysis, the dataset was enriched with key indicators:
 
 - **RSI (Relative Strength Index)** : reflects overbought/oversold conditions.
 - **MACD (Moving Average Convergence Divergence)** : captures momentum shifts.
 - **Moving Averages (MA100, MA200)** : smooth trends for long-term signal tracking.
-
+![RSI](https://github.com/Tahanijabir/maybank-lstm-stock-prediction/blob/main/RSI.png?raw=true)
+![MACD](https://github.com/Tahanijabir/maybank-lstm-stock-prediction/blob/main/MACD.png?raw=true)
+![Moving Averages](https://github.com/Tahanijabir/maybank-lstm-stock-prediction/blob/main/indicators.png?raw=true)
 These indicators help the model learn market behavior beyond raw price fluctuations.
 
 ---
